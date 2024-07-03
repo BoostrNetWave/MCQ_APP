@@ -1,0 +1,7 @@
+[03-Jul-2024 15:03:05 UTC] PHP Warning:  Use of undefined constant total - assumed 'total' (this will throw an Error in a future version of PHP) in /home2/getlearn/public_html/admin/pages/home.php on line 65
+[03-Jul-2024 15:03:05 UTC] PHP Warning:  Use of undefined constant total - assumed 'total' (this will throw an Error in a future version of PHP) in /home2/getlearn/public_html/admin/pages/home.php on line 100
+[03-Jul-2024 15:03:05 UTC] PHP Notice:  Undefined variable: selExamRow in /home2/getlearn/public_html/admin/includes/modals.php on line 91
+[03-Jul-2024 15:03:05 UTC] PHP Notice:  Undefined variable: exId in /home2/getlearn/public_html/admin/includes/modals.php on line 102
+[03-Jul-2024 15:03:05 UTC] PHP Notice:  Undefined variable: exId in /home2/getlearn/public_html/admin/includes/modals.php on line 168
+[03-Jul-2024 15:03:09 UTC] PHP Notice:  Undefined variable: exId in /home2/getlearn/public_html/admin/includes/modals.php on line 102
+[03-Jul-2024 15:03:09 UTC] PHP Notice:  Undefined variable: exId in /home2/getlearn/public_html/admin/includes/modals.php on line 168

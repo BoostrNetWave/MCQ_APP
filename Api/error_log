@@ -1,0 +1,13 @@
+[02-Jul-2024 17:32:45 UTC] PHP Notice:  Undefined index: selected_answer in /home2/getlearn/public_html/Api/gameScoreApi.php on line 99
+[02-Jul-2024 17:32:45 UTC] PDO Error: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_answer' cannot be null
+[02-Jul-2024 17:35:58 UTC] PHP Notice:  Undefined index: selected_answer in /home2/getlearn/public_html/Api/QuizScoreApi.php on line 70
+[02-Jul-2024 17:35:58 UTC] PHP Notice:  Undefined index: selected_answer in /home2/getlearn/public_html/Api/QuizScoreApi.php on line 82
+[02-Jul-2024 17:35:58 UTC] PHP Notice:  Undefined index: selected_answer in /home2/getlearn/public_html/Api/QuizScoreApi.php on line 82
+[02-Jul-2024 17:35:58 UTC] PHP Notice:  Undefined index: selected_answer in /home2/getlearn/public_html/Api/QuizScoreApi.php on line 82
+[02-Jul-2024 17:35:58 UTC] PHP Notice:  Undefined index: selected_answer in /home2/getlearn/public_html/Api/QuizScoreApi.php on line 82
+[02-Jul-2024 17:35:58 UTC] PHP Notice:  Undefined index: selected_answer in /home2/getlearn/public_html/Api/QuizScoreApi.php on line 82
+[02-Jul-2024 17:35:58 UTC] PHP Notice:  Undefined index: selected_answer in /home2/getlearn/public_html/Api/QuizScoreApi.php on line 82
+[02-Jul-2024 17:35:58 UTC] PHP Notice:  Undefined index: selected_answer in /home2/getlearn/public_html/Api/QuizScoreApi.php on line 82
+[02-Jul-2024 17:35:58 UTC] PHP Notice:  Undefined index: selected_answer in /home2/getlearn/public_html/Api/QuizScoreApi.php on line 82
+[02-Jul-2024 17:35:58 UTC] PHP Notice:  Undefined index: selected_answer in /home2/getlearn/public_html/Api/QuizScoreApi.php on line 82
+[02-Jul-2024 17:35:58 UTC] PHP Notice:  Undefined index: selected_answer in /home2/getlearn/public_html/Api/QuizScoreApi.php on line 82
