@@ -1,9 +1,9 @@
 <?php 
 
 $host = "localhost";
-$user = "getlearn_learner_user";
-$pass = "db@password";
-$db   = "getlearn_learner_db";
+$user = "mcq-app";
+$pass = "sivA898S";
+$db   = "learners_db";
 $conn = null;
 
 try {
